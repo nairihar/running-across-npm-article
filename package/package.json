@@ -1,0 +1,14 @@
+{
+  "name": "library-like-lodash-for-article",
+  "version": "1.0.0",
+  "description": "My custom library for article.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nairi Haroutiounian",
+  "license": "ISC"
+}
