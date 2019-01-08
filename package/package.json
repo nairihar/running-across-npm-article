@@ -1,6 +1,6 @@
 {
   "name": "library-like-lodash-for-article",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My custom library for article.",
   "main": "index.js",
   "dependencies": {},
